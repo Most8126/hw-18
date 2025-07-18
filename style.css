@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#addHtmlt, .hideDiv, .addText, section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.addClass {
+    background: #f66668;
+    border-radius: 50% 0 50% 0;
+    width: 200px;
+    height: 120px;
+    line-height: 80px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+/* Завдання 2 */
+#animationBox {
+    width: 100px;
+    height: 100px;
+    background-color: #4287f5;
+    position: relative;
+    opacity: 1;
+    border-radius: 5px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
