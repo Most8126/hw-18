@@ -41,7 +41,7 @@ $('#btnTransform').click(function () {
         height: '100px',
         left: '0px',
         top: '0px',
-        opacity: 1
+        opacity: 0
     }, 700);
     }
 
